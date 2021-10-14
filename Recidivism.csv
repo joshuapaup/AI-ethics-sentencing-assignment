@@ -1,0 +1,30 @@
+age ,gender,education,employed,crimeHistory,zipCode,race
+51,NB,SC,FALSE,TRUE,80023,Asain or Pacific Islander
+17,F,HSD,FALSE,TRUE,80103,White or Caucasian
+59,M,CC,TRUE,FALSE,80295,White or Caucasian
+70,M,SHS,TRUE,FALSE,80113,Black or African American
+41,M,SHS,TRUE,FALSE,80264,Native American or Alaskan Native
+41,O,MSD,FALSE,FALSE,80045,Hispanic/Latino
+58,M,UD,TRUE,TRUE,80113,Asain or Pacific Islander
+59,NB,HSD,FALSE,TRUE,80295,Hispanic/Latino
+31,M,HSD,TRUE,TRUE,80602,Black or African American
+39,NB,MSD,TRUE,TRUE,80295,Black or African American
+67,NB,SHS,TRUE,FALSE,80295,White or Caucasian
+64,M,MSD,TRUE,FALSE,80103,White or Caucasian
+50,M,HSD,FALSE,FALSE,80205,Asain or Pacific Islander
+68,M,SHS,FALSE,FALSE,80211,Native American or Alaskan Native
+35,M,CC,TRUE,TRUE,80295,White or Caucasian
+37,O,MSD,FALSE,FALSE,80103,Native American or Alaskan Native
+55,NB,CC,FALSE,FALSE,80211,Multiracial or Biracial
+17,O,GD,FALSE,FALSE,80103,Asain or Pacific Islander
+14,M,CC,TRUE,TRUE,80023,Native American or Alaskan Native
+22,F,SHS,FALSE,TRUE,80047,White or Caucasian
+28,M,HSD,FALSE,TRUE,80295,White or Caucasian
+37,M,UD,FALSE,TRUE,80113,Asain or Pacific Islander
+26,M,MSD,FALSE,TRUE,80295,Asain or Pacific Islander
+23,M,CC,FALSE,FALSE,80113,White or Caucasian
+32,M,CC,FALSE,FALSE,80109,Hispanic/Latino
+25,M,HSD,FALSE,FALSE,80109,Multiracial or Biracial
+56,F,HSD,FALSE,FALSE,80295,Asain or Pacific Islander
+29,F,HSD,TRUE,TRUE,80211,Multiracial or Biracial
+23,O,SC,TRUE,FALSE,80103,Multiracial or Biracial
